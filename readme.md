@@ -14,5 +14,5 @@ run.js
 
 To run the express app use:
 ```
-yarn start
+npm start
 ```
